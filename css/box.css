@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.navbox1 {
+    background: #1152f7;
+    border: solid 4px black;
+    height: 9vh;
+    width: 95%;
+    margin: auto;
+    opacity: 0.5;
+    margin-top: -80px;
+
+}
+
+header {
+    overflow: auto;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 11px;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    background-color: RED;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    /* padding: 15px; */
+
+    border-radius: 50%;
+}
+
+/* BOX-2 */
+
+.navbox2 {
+    background: #6945ca;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 80vh;
+    width: 95%;
+    margin: auto;
+    opacity: 0.;
+    margin-top: -680px;
+    opacity: 0.5;
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+/* BOX-3 */
+
+.navbox3 {
+    background: #45cabd;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 72vh;
+    width: 100%;
+    opacity: 0.;
+    margin-top: -670px;
+    opacity: 0.5;
+}
+
+.box3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.navbox4 {
+    background: #6945ca;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 60vh;
+    width: 100%;
+    opacity: 0.;
+    margin-top: -400px;
+    opacity: 0.5;
+}
+
+.box4 {
+    display: flex;
+    /* justify-content: left; */
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 750px;
+}
+
+/* BOX-5 */
+
+.navbox5 {
+    background: #45cabd;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 120vh;
+    width: 90%;
+    margin: auto;
+    opacity: 0.;
+    margin-top: -850px;
+    opacity: 0.5;
+}
+
+.box5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+/* BOX-6 */
+
+.navbox6 {
+    background: #6945ca;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 100vh;
+    width: 85%;
+    margin: auto;
+    opacity: 0.;
+    margin-top: -690px;
+    opacity: 0.5;
+}
+
+.box6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+/* BOX-7 */
+
+.navbox7 {
+    background: #45cabd;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 130vh;
+    width: 95%;
+    margin: auto;
+    opacity: 0.;
+    margin-top: -900px;
+    opacity: 0.5;
+}
+
+.box7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+/* BOX-8 */
+
+.navbox8 {
+    background: #6945ca;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 110vh;
+    width: 100%;
+    margin: auto;
+    opacity: 0.;
+    margin-top: -850px;
+    opacity: 0.5;
+}
+
+.box8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+/* BOX-9 */
+
+.navbox9 {
+    background: #45cabd;
+    /* fallback for old browsers */
+    border: solid 4px black;
+    height: 50vh;
+    width: 100%;
+    margin: auto;
+    opacity: 0.;
+    margin-top: -290px;
+    opacity: 0.5;
+}
+
+.box9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    /* margin-left: 400px; */
+}
